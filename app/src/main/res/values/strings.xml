@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NNetflix</string>
+    <string name="home_icon_text">Home</string>
+    <string name="plus_icon_text">WatchList</string>
+    <string name="kubik_icon">Library</string>
+    <string name="download_icon">Downloads</string>
+</resources>
